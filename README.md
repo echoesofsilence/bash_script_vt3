@@ -13,7 +13,7 @@ __Simple Bash Script for VirusTotal v3__.
  # Commands
  ```
  -h  Display help text.
- -k  VirusTotal API Key. _(Required)_
+ -k  VirusTotal API Key. (Required)
  -f  Full path to a file or scan.
  -l  Full path to a large file ( >32 Mb ) for scan.
  -s  Hash of a file for scan.
