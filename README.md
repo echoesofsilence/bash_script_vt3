@@ -1,13 +1,23 @@
 # bash_script_vt3-
 
 
-  Simple Bash Script for VirusTotal v3
+__Simple Bash Script for VirusTotal v3__.
   
-  Example: ./vt.sh -k <API TOKEN> -f <FILE PATH>
+  # Usage
+  
+  ```
+  ./vt.sh -k <API TOKEN> -f <FILE PATH>
+  ```
+  
+  
+ # Commands
+ ```
  -h  Display help text.
- -k  API Key.
+ -k  VirusTotal API Key. _(Required)_
  -f  Full path to a file or scan.
  -l  Full path to a large file ( >32 Mb ) for scan.
  -s  Hash of a file for scan.
  -i  IP address of a server for scan.
  -u  URL of a site for scan.
+```
+
