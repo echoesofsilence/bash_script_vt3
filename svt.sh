@@ -39,7 +39,7 @@ key_check () {
 
 info () {
     echo "Bash Script to work with VirusTotal API V3"
-    echo -ne "Usage example: ./vt.sh -k <API TOKEN> -f <FILE PATH>\n\n"
+    echo -ne "Usage example: ./svt.sh -k <API TOKEN> -f <FILE PATH>\n\n"
     echo -ne "\t-h\t\tDisplay help text.\n"
     echo -ne "\t-k\t\tAPI Key.\n"
     echo -ne "\t-f\t\tFull path to a file or scan.\n"
