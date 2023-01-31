@@ -1,4 +1,4 @@
-# bash_script_vt3-
+bash_script_vt3
 
 
 __Simple Bash Script for VirusTotal v3__.
